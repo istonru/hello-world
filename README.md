@@ -1,3 +1,3 @@
 # hello-world
 Yet another Hello World :)
-Here i learn how to use GitHub!
+Here I'm learning how to use GitHub!
